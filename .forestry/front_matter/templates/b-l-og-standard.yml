@@ -1,0 +1,40 @@
+---
+label: B(l)og standard
+hide_body: false
+is_partial: false
+fields:
+- type: text
+  name: title
+  label: Title
+  config:
+    required: true
+- type: select
+  config:
+    source:
+      type: simple
+    required: true
+    options:
+    - icelandic
+    - english
+  label: Language
+  name: language
+  default: icelandic
+- type: tag_list
+  label: Tags
+  name: tags
+- type: datetime
+  config:
+    date_format: YYYY-MM-DD
+    required: true
+  label: Date
+  name: date
+- type: color
+  config:
+    color_format: Hex
+  label: Title background override
+  name: title_background_override
+- type: file
+  name: top_image
+  label: Top image
+  config:
+    maxSize: '1'
