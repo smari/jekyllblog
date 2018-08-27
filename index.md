@@ -16,7 +16,3 @@ In this case, you probably know me from one of my contexts ─
 * Student pilot
 
 ... or something like that.
-
-This website will not cater to your particular context, nor will it serve to fulfill self-aggrandizement, because it's not for you, it's for me.
-
-Fine, I shall self-aggrandize on [my CV](/cv "CV").
