@@ -14,8 +14,8 @@ fields:
       type: simple
     required: true
     options:
-    - icelandic
-    - english
+    - is
+    - en
   label: Language
   name: language
   default: icelandic
