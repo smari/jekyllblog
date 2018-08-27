@@ -9,7 +9,7 @@ The premise of any personal website is that simply by being there you are alread
 In this case, you probably know me from one of my contexts ─ 
 
 * Member of the Icelandic Parliament
-* Programmer / Free Software nut
+* Programmer
 * Essayist
 * Political activist
 * Human rights advocate
