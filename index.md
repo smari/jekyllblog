@@ -11,6 +11,7 @@ In this case, you probably know me from one of my contexts ─
 * Member of the Icelandic Parliament
 * Programmer / Free Software nut
 * Essayist
+* Political activist
 * Human rights advocate
 * Information security trainer
 * Student pilot
